@@ -9,7 +9,7 @@ Web application built for [Uber] (https://www.uber.com) coding challenge.
 
 ## Live Demo
 
-Built on Google App Engine, viewable [here] (foodtruck-uber.appspot.com).
+Built on Google App Engine, viewable [here] (https://foodtruck-uber.appspot.com).
 
 Technical track: Full Stack
 
