@@ -13,6 +13,9 @@ Built on Google App Engine, viewable [here] (https://foodtruck-uber.appspot.com)
 
 Technical track: Full Stack
 
+# Usage
+Use the search bar to find any location and all food trucks close to said location. Clicking on the marker will reveal Name, Address, and Food Items sold. Standard google maps controls.
+
 # Development
 
 ## Frontend
