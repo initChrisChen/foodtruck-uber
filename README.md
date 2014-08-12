@@ -1,6 +1,8 @@
 foodtruck-uber
 ==============
 
+[Resume] (https://docs.google.com/document/d/1mgOHd8RIuHKqSnpkCREL-XPtP1KfS3O6-vxkRSB2vgg/edit?usp=sharing)
+
 # FoodTruck map challenge
 
 Web application built for [Uber] (https://www.uber.com) coding challenge.
@@ -48,4 +50,3 @@ Technical track: Full Stack
 ##Improvements
 Initially I had intended to strip and store the relevant information (Approved only, has location, etc) for each food truck as a NDB entity in the provided NDB datastore linked directly to App Engine. However, during the course of developing, I quickly blazed through the free quota provided for any standard App Engine project. This could be addressed by moving the project over the Heroku and using something akin to mongoDB. I decided not to however, as I was already desining and planning the project on App Engine. Another solution would be to purchase a higher quota. My design idea behind the NDB datastore was to provide a stripped down, relevant informationly only entity per food truck, and on command, to scan the API and update each entity or add/remove entities as their licenses were approved/expired.
 
-[Resume] (https://docs.google.com/document/d/1mgOHd8RIuHKqSnpkCREL-XPtP1KfS3O6-vxkRSB2vgg/edit?usp=sharing)
